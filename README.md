@@ -27,7 +27,7 @@ Make sure to run the complete_dict.ipynb notebook completely to generate the nec
 
 ## Files
 
-• `app.py:` The main Streamlit application file.
+• `app.py`: The main Streamlit application file.
 
 • `dict.ipynb`: Jupyter notebook used to create the dictionaries and similarity matrix for movie recommendations.
 
