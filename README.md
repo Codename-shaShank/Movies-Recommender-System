@@ -18,7 +18,7 @@ This repository contains a simple movie recommendation system using Streamlit fo
 ## Usage
 
 1. **Run the `dict.ipynb` notebook:**
-Make sure to run the complete_dict.ipynb notebook completely to generate the necessary pickle files (`new_dict.pkl` and `similarity_matrix.pkl`).
+Make sure to run the dict.ipynb notebook completely to generate the necessary pickle files (`new_dict.pkl` and `similarity_matrix.pkl`).
 
 2. **Run the Streamlit app:**
    ```bash
